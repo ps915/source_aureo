@@ -1,7 +1,7 @@
 # source_aureo
 Open Source FPV Drone Frame project initiated by Team BlackSheep
 
-<img src="https://raw.githubusercontent.com/ps915/source_AUREO/master/photos/blueprint/source_AUREO.png" width="800">
+<img src="https://raw.githubusercontent.com/ps915/source_aureo/master/photos/wallpaper/source_aureo_small.png" width="800">
 
 # About SOURCE AUREO
 ## The idea
